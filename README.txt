@@ -1,10 +1,11 @@
-Arcana by HTML5 UP
+Read Only by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
 
-A business/corporate style responsive site template. It's pretty barebones but should
-go over pretty well for folks wanting to get their serious business on.
+Just a super simple single-page responsive template built for personal sites and portfolios
+(although it'd definitely work for other stuff too). Includes a contact form, pre-styled
+elements, and Sass sources.
 
 Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
 you can use for pretty much whatever.
@@ -29,4 +30,5 @@ Credits:
 
 	Other:
 		jQuery (jquery.com)
+		Scrollex (github.com/ajlkn/jquery.scrollex)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
