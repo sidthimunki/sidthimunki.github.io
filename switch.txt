@@ -1,2 +1,1 @@
-1 hpvc
-1 voorraaddatabase
+voorraaddatabase v0.1
