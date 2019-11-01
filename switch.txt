@@ -1,3 +1,1 @@
-VERSIE
-voorraaddatabase 0.1
-test
+VERSIE,voorraaddatabase,0.1,END
