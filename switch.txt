@@ -1,1 +1,1 @@
-VERSIE,voorraaddatabase,0.2,END
+VERSIE,voorraaddatabase,0.1,END
